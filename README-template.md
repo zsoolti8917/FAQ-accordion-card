@@ -33,17 +33,14 @@ Users should be able to:
 Finished project on a 1440px screen
 ![Finished project on 1440px](solution/PC%20solution.png)
 
-Finished project on a 375px screen
-<br />
-![Finished project on 375px](solution/Phone%20solution.png)
 
 ### Links
 
  NEED TO DOOO 
 
 - Solution URL: [Can be found on my Frontend mentor profile](https://www.frontendmentor.io/profile/zsoltvarju)
-- Live Site URL: [My solution on netlify](https://delightful-daifuku-95a3ad.netlify.app/)
-- [![Netlify Status](https://api.netlify.com/api/v1/badges/e94408b2-1e77-4e8e-9731-7dcae164f380/deploy-status)](https://app.netlify.com/sites/delightful-daifuku-95a3ad/deploys)
+- Live Site URL: [My solution on netlify](https://dashing-fairy-9d484c.netlify.app/)
+- [![Netlify Status](https://api.netlify.com/api/v1/badges/90b0d0b4-08fa-47fd-b808-6bbf7dd9a440/deploy-status)](https://app.netlify.com/sites/dashing-fairy-9d484c/deploys)
 
 ## My process
 
