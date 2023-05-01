@@ -10,22 +10,23 @@
   <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
   <link rel="stylesheet" href="style.css">
   <title>FAQ Accordion Card</title>
-
+  <script src="main.js" defer></script>
 </head>
 
 <body>
   <!-- Container start -->
 
   <div class="container">
-    
+
     <!-- Left start -->
     <div class="left">
-      
-        
-          <img src="images/illustration-box-desktop.svg" alt="box" class="box">
-        
-      
+
+
+      <img src="images/illustration-box-desktop.svg" alt="box" class="box">
+
+
       <picture class="image">
+        <source srcset="images/illustration-woman-online-desktop.svg" media="(max-width: 768px)" />
         <img src="images/illustration-woman-online-desktop.svg" alt="illustration">
       </picture>
     </div>
@@ -41,32 +42,50 @@
       <!-- FAQ part -->
       <ul class="questions">
         <li class="question question1">
-          <p class="q">How many team members can I invite?
-          </p>
+          <div class="question__line">
+            <p class="q">How many team members can I invite?
+            </p>
+            <i><img src="images/icon-arrow-down.svg" alt=""></i>
+          </div>
+
           <p class="a">You can invite up to 2 additional users on the Free plan. There is no limit on
             team members for the Premium plan.</p>
+
         </li>
         <li class="question question2">
-          <p class="q"> What is the maximum file upload size?
-          </p>
+          <div class="question__line">
+            <p class="q"> What is the maximum file upload size?
+            </p>
+            <i><img src="images/icon-arrow-down.svg" alt=""></i>
+          </div>
+
           <p class="a"> No more than 2GB. All files in your account must fit your allotted storage space.
           </p>
         </li>
         <li class="question question3">
-          <p class="q"> How do I reset my password?
-          </p>
+          <div class="question__line">
+            <p class="q"> How do I reset my password?
+            </p> <i><img src="images/icon-arrow-down.svg" alt=""></i>
+          </div>
+
           <p class="a">Click “Forgot password” from the login page or “Change password” from your profile page.
             A reset link will be emailed to you.</p>
         </li>
         <li class="question question4">
-          <p class="q"> Can I cancel my subscription?
-          </p>
+          <div class="question__line">
+            <p class="q"> Can I cancel my subscription?
+            </p> <i><img src="images/icon-arrow-down.svg" alt=""></i>
+          </div>
+
           <p class="a"> Yes! Send us a message and we’ll process your request no questions asked.
           </p>
         </li>
         <li class="question question5">
-          <p class="q"> Do you provide additional support?
-          </p>
+          <div class="question__line">
+            <p class="q"> Do you provide additional support?
+            </p> <i><img src="images/icon-arrow-down.svg" alt=""></i>
+          </div>
+
           <p class="a"> Chat and email support is available 24/7. Phone lines are open during normal business hours.
           </p>
         </li>

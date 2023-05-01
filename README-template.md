@@ -17,7 +17,6 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
     - [Useful resources](#useful-resources)
   - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -54,16 +53,17 @@ Finished project on a 375px screen
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
 - Vanilla JavaScript
 
 ### What I learned
+
+Honestly, I'm only halfway done with this project and I hate it so much! It's been the most frustrating project I've ever worked on. I've learned a lot from it, but I'm not happy with how it turned out. I'll come back to it later, but for now, I'm done with it. The Javascript part was actually pretty fun, and that's what I was focusing on. It works the way I wanted it to, and even though the code is short and simple, I learned a lot about how to work with the DOM. I didn't bother trying to get the images in the right position, and it looks completely messed up on phones. But, if I ever feel like it, I might redo the whole thing from scratch. Right now, I just want to move on to the next project and learn new stuff. Even though I'm not happy with how it turned out, I'm happy I learned some new things along the way.
 
 
 
 ### Continued development
 
-I do not intend to make any further additions to this project as I believe it is complete, and I am satisfied with the outcome. I am committed to advancing my skills and knowledge by embarking on new projects and honing my abilities.
+Will revisit this project in the future and redo it from scratch. I'm not happy with how it turned out.
 
 ### Useful resources
 
